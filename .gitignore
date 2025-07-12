@@ -1,0 +1,36 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# Visual Studio / JetBrains Rider
+.vs/
+*.csproj
+*.sln
+*.user
+*.suo
+*.unityproj
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Unity crash/backup files
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Rider
+.idea/
+
+# Collab
+.collab/
